@@ -1,0 +1,83 @@
+
+
+
+body {
+    background-image: url(background.jpg);
+    position: relative;
+    background-size: cover;
+    display: inline-block;
+    text-align: center;
+    }
+
+.contenitore {
+      position: absolute;
+      width: 840px;
+      height: 600px;
+      background: rgb(0, 0, 0);
+      background: rgba(0, 0, 0, 0.5);
+      color: #f1f1f1;
+      margin-left: 250px;
+      margin-top: 10px;
+      border-radius: 2%;
+      }
+
+.logo {
+    width: 200px;
+    text-align: center;
+    margin-top: 60px;
+    }
+
+h2 {
+    color: #33ff33;
+    margin-top: 0;
+    }
+
+.bottoni {
+    display: inline-block;
+    }
+
+nav {
+    background-position: center;
+    background: #33ff33;
+    padding: 10px;
+    width: 700px;
+    height: 25px;
+    margin: auto;
+    }
+
+main{
+    text-align: left;
+    margin-left: 60px;
+    color: white;
+    }
+
+.monopattini {
+    font-size: 18px;
+    margin-top: 15px;
+    }
+
+.descrizione {
+    font-size: 13px;
+    margin-top: 0;
+    }
+
+.percentuale1{
+    width: 280px;
+    height: 25px;
+    background-color: #ffb84d;
+    border-radius: 5px;
+    }
+
+.percentuale2{
+    width: 500px;
+    height: 25px;
+    background-color: #00e600;
+    border-radius: 5px;
+    }
+
+.percentuale3{
+    width: 120px;
+    height: 25px;
+    background-color:#b32d00;
+    border-radius: 5px;
+    }
